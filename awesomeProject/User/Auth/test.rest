@@ -1,0 +1,5 @@
+GET http://localhost:8080/api/secured/refresh HTTP/1.1
+content-type: application/json
+Refresh: H5TWBSTaJXFghlTVCPr!2!FK7*FUPn7i
+
+###

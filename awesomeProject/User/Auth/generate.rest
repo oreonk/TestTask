@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/JWT HTTP/1.1
+content-type: application/json
+
+{
+  "UUID" : "1asd1"
+}
+
+###
